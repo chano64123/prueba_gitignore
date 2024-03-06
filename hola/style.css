@@ -2,6 +2,7 @@ p,
 img,
 div {
     border: 2px solid red;
+    background-color: aqua;
 }
 
 div {
