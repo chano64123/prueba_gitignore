@@ -1,0 +1,17 @@
+p,
+img,
+div {
+    border: 2px solid red;
+}
+
+div {
+    width: 100px;
+}
+
+span {
+    color: blue;
+}
+
+table {
+    border: #121212 1px dashed;
+}
